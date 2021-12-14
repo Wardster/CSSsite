@@ -1,7 +1,7 @@
 body {
   color: #009dae;
   background-image: url('https://img1.cgtrader.com/items/2155451/3981d9441c/cloud-3d-vdb-and-model-guide-3d-model-obj-mtl.jpg');
-  margin: 0px;
+  margin: 0;
 }
 .topBox {
   background-color: bisque;
@@ -19,32 +19,91 @@ body {
   position: absolute;
   left: 200px;
   top: 200px;
-  opacity: 50%;
+  /* background-image: url('https://www.facebook.com/photo/?fbid=10213678571372656&set=a.1540016214436');*/
+  background-image: url(Me.jpg);
+  z-index: 1;
 }
 .botBox {
   background-color: #033c42;
   height: 200px;
   width: 200px;
   position: absolute;
-  top: 00px;
-  opacity: 50%;
+  top: 0;
+  background-image: url(faceBook.jpg);
+  z-index: 1;
 }
 h1,
-h3 {
+h2 {
   text-align: center;
-  display: block;
+  opacity: 50%;
 }
 .intro {
-  position: 400px;
+  /* position: 400px;*/
 
   display: absolute;
-  margin-top: 400px;
+  margin-top: 0;
+  margin-left: 700px;
 }
 h1 {
   font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  display: block;
+  font-size: 8rem;
+  line-height: 1;
+  margin: auto auto 0 auto;
 }
+h2 {
+  display: block;
+  font-size: 2rem;
+  font-weight: normal;
+  margin-top: 0%;
+}
+
 image {
   position: absolute;
   background-image: url('https://img1.cgtrader.com/items/2155451/3981d9441c/cloud-3d-vdb-and-model-guide-3d-model-obj-mtl.jpg');
   background-size: cover;
+}
+img {
+  max-width: auto;
+  height: 100%;
+}
+
+.mailto {
+  display: block;
+  position: absolute;
+  margin-left: 300px;
+}
+
+h3 {
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  text-align: center;
+}
+.button {
+  display: inline-block;
+  padding: 15px 35px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4caf50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+.button:hover {
+  background-color: #3e8e41;
+}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.intro2 {
+  display: absolute;
+  margin-top: 0;
+  margin-left: 700px;
+  width: 200px;
 }
