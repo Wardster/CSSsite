@@ -1,4 +1,50 @@
 body {
-  color: rgb(165, 42, 118);
-  background-color: #373792;
+  color: #009dae;
+  background-image: url('https://img1.cgtrader.com/items/2155451/3981d9441c/cloud-3d-vdb-and-model-guide-3d-model-obj-mtl.jpg');
+  margin: 0px;
+}
+.topBox {
+  background-color: bisque;
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  left: 400px;
+  top: 400px;
+  opacity: 50%;
+}
+.midBox {
+  background-color: rgb(86, 143, 124);
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  left: 200px;
+  top: 200px;
+  opacity: 50%;
+}
+.botBox {
+  background-color: #033c42;
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  top: 00px;
+  opacity: 50%;
+}
+h1,
+h3 {
+  text-align: center;
+  display: block;
+}
+.intro {
+  position: 400px;
+
+  display: absolute;
+  margin-top: 200px;
+}
+h1 {
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+}
+image {
+  position: absolute;
+  background-image: url('https://img1.cgtrader.com/items/2155451/3981d9441c/cloud-3d-vdb-and-model-guide-3d-model-obj-mtl.jpg');
+  background-size: cover;
 }
