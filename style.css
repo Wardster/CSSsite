@@ -1,0 +1,63 @@
+body {
+  color: #009dae;
+  background-image: url('https://img1.cgtrader.com/items/2155451/3981d9441c/cloud-3d-vdb-and-model-guide-3d-model-obj-mtl.jpg');
+  margin: 0;
+}
+p {
+  font-family: serif;
+}
+img {
+  margin-left: 500px;
+  border-radius: 50%;
+}
+.intro {
+  display: inline-block;
+  margin: 300px auto 0 500px;
+}
+
+.intro,
+.intro2 {
+  display: inline-block;
+  color: #009dae;
+  margin-left: 500px;
+  padding: 10px;
+}
+.footer {
+  /* position: relative; */
+  position: absolute;
+  margin-left: 600px;
+  width: 200px;
+}
+.button {
+  display: inline-block;
+  padding: 15px 35px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4caf50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 9px 9px #999;
+}
+.button:hover {
+  background-color: #3e8e41;
+}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+mySkills {
+  display: block;
+  width: 300px;
+  background-color: pink;
+  height: 20px;
+  z-index: 1;
+}
+footer {
+  margin-left: 700px;
+}
