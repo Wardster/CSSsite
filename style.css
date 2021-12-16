@@ -12,15 +12,15 @@ img {
 }
 .intro {
   display: inline-block;
-  margin: 300px auto 0 500px;
+  margin-top: 300px;
 }
 
 .intro,
 .intro2 {
-  display: inline-block;
+  display: block;
+  margin-left: 600px;
+  text-align: left;
   color: #009dae;
-  margin-left: 500px;
-  padding: 10px;
 }
 .footer {
   /* position: relative; */
@@ -51,13 +51,18 @@ img {
   box-shadow: 0 5px #666;
   transform: translateY(4px);
 }
-mySkills {
+.mySkills {
   display: block;
-  width: 300px;
-  background-color: pink;
-  height: 20px;
-  z-index: 1;
+  width: 30rem;
+  /* background-color: pink; */
+  text-align: left;
+  margin-left: 600px;
+  position: relative;
+  color: #009dae;
 }
 footer {
-  margin-left: 700px;
+  margin-left: 600px;
+}
+.me {
+  margin: 0 600px;
 }
