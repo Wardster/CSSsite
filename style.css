@@ -12,7 +12,7 @@ img {
   border-radius: 50%;
 }
 .intro2 {
-  display: inline-block;
+  display: block;
   margin: 100px auto 50px 40%;
   color: #009dae;
 }
