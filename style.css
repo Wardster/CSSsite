@@ -28,7 +28,7 @@ img {
 .footer {
   position: absolute;
   margin-left: 40%;
-  width: 200px;
+  width: 40%;
 }
 .button {
   display: inline-block;
@@ -61,6 +61,7 @@ img {
   margin-bottom: 30px;
   position: relative;
   color: #009dae;
+  font-weight: bold;
 }
 footer {
   margin-left: 40%;
@@ -93,6 +94,10 @@ h2 {
 }
 .intro2-h2 {
   font-family: sans-serif;
+  font-weight: bold;
 }
 .intro2-p {
+}
+.mySkills-h {
+  font-weight: bold;
 }
