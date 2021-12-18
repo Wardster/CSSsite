@@ -16,7 +16,6 @@ img {
   margin: 100px auto 50px 50%;
   color: #009dae;
 }
-
 .intro {
   display: block;
   margin: 100px auto 50px 50%;
@@ -46,7 +45,6 @@ img {
 .button:hover {
   background-color: #3e8e41;
 }
-
 .button:active {
   background-color: #3e8e41;
   box-shadow: 0 5px #666;
