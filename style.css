@@ -13,7 +13,7 @@ img {
 }
 .intro2 {
   display: block;
-  margin: 100px auto 50px 40%;
+  margin: 50px auto 50px 40%;
   color: #009dae;
 }
 .intro {
@@ -21,7 +21,7 @@ img {
   margin: 50px auto 50px 40%;
   text-align: left;
   color: #009dae;
-  width: 30%;
+  width: 25%;
 }
 .footer {
   /* position: relative; */
@@ -74,4 +74,7 @@ footer {
   margin-left: 40%;
   color: #009dae;
   margin-bottom: 50px;
+}
+h2 {
+  font-family: serif;
 }
