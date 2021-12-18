@@ -13,12 +13,12 @@ img {
 }
 .intro2 {
   display: block;
-  margin: 50px auto 50px 40%;
+  margin: 0px auto 30px 40%;
   color: #009dae;
 }
 .intro {
   display: block;
-  margin: 50px auto 50px 40%;
+  margin: 2rem auto 30px 40%;
   text-align: left;
   color: #009dae;
   width: 25%;
@@ -57,23 +57,23 @@ img {
   /* background-color: pink; */
   text-align: left;
   margin-left: 40%;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
   position: relative;
   color: #009dae;
 }
 footer {
   margin-left: 40%;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 .me {
-  margin-left: 40%;
   display: inline-block;
   position: relative;
+  margin: 10px auto 10px 40%;
 }
 .certificates {
   margin-left: 40%;
   color: #009dae;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 h2 {
   font-family: serif;
