@@ -13,19 +13,19 @@ img {
 }
 .intro2 {
   display: inline-block;
-  margin: 100px auto 50px 50%;
+  margin: 100px auto 50px 40%;
   color: #009dae;
 }
 .intro {
   display: block;
-  margin: 100px auto 50px 50%;
+  margin: 100px auto 50px 40%;
   text-align: left;
   color: #009dae;
 }
 .footer {
   /* position: relative; */
   position: absolute;
-  margin-left: 50%;
+  margin-left: 40%;
   width: 200px;
 }
 .button {
@@ -55,21 +55,21 @@ img {
   width: 30rem;
   /* background-color: pink; */
   text-align: left;
-  margin-left: 50%;
+  margin-left: 40%;
   margin-bottom: 50px;
   position: relative;
   color: #009dae;
 }
 footer {
-  margin-left: 50%;
+  margin-left: 40%;
 }
 .me {
-  margin-left: 50%;
+  margin-left: 40%;
   display: inline-block;
   position: relative;
 }
 .certificates {
-  margin-left: 50%;
+  margin-left: 40%;
   color: #009dae;
   margin-bottom: 50px;
 }
