@@ -38,7 +38,7 @@ img {
   text-decoration: none;
   outline: none;
   color: #fff;
-  background-color: #4caf50;
+  background-color: #009dae;
   border: none;
   border-radius: 15px;
   box-shadow: 9px 9px #999;
@@ -71,6 +71,7 @@ footer {
   margin: 10px auto 10px 40%;
 }
 .certificates {
+  margin-top: 16px;
   margin-left: 40%;
   color: #009dae;
   margin-bottom: 30px;
@@ -79,7 +80,7 @@ footer {
   margin: 0 auto;
 }
 .footer-links:hover {
-  color: aqua;
+  color: #009dae;
 }
 h2 {
   font-family: serif;
