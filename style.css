@@ -8,7 +8,7 @@ p {
   font-family: serif;
   margin: 0 auto;
   font-size: 1.5rem;
-  font-weight: heavy;
+  font-weight: bold;
 }
 img {
   border-radius: 50%;
@@ -85,4 +85,14 @@ footer {
 }
 h2 {
   font-family: serif;
+}
+.intro-p {
+  font-family: serif;
+  margin-top: 1.5rem;
+  line-height: 3rem;
+}
+.intro2-h2 {
+  font-family: sans-serif;
+}
+.intro2-p {
 }
