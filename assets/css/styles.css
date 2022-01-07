@@ -28,3 +28,8 @@ head {
 html {
 }
 
+hr {
+  width: 25%;
+  margin: auto;
+}
+
